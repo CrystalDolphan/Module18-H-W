@@ -19,4 +19,4 @@ We successfully employed the streamlit application and created a pychain ledger 
 ![Streamlit_Result.png](Streamlit_Result.png)
 ![PyChain_Ledger.png](PyChain_Ledger.png)
 
-As we can see, different inputs generated differnt hash codes. By altering the amount and difficulty, we were also able to attain hash codes of different lengths.
+As we can see, different inputs generated different hash codes. By altering the amount and difficulty, we were also able to attain hash codes of different lengths.
